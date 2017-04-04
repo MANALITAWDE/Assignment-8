@@ -1,0 +1,36 @@
+{
+  "coffeeorders": [
+    {
+      "coffee": "test",
+      "emailAddress": "test@bignerdranch.com",
+      "size": "coffee-zilla",
+      "flavor": "almond",
+      "strength": "36",
+      "id": 1
+    },
+    {
+      "coffee": "dev",
+      "emailAddress": "test@bignerdranch.com",
+      "size": "coffee-zilla",
+      "flavor": "almond",
+      "strength": "39",
+      "id": 2
+    },
+    {
+      "coffee": "decajdfn",
+      "emailAddress": "test@bignerdranch.com",
+      "size": "grande",
+      "flavor": "almond",
+      "strength": "30",
+      "id": 3
+    },
+    {
+      "coffee": "ssf",
+      "emailAddress": "test1@bignerdranch.com",
+      "size": "coffee-zilla",
+      "flavor": "caramel",
+      "strength": "35",
+      "id": 4
+    }
+  ]
+}
